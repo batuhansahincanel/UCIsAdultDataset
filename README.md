@@ -24,3 +24,7 @@ In this study;
 - 5 different classification model which Random Forest, Logistic Regression, Decision Tree, SVM, and XGBOOST.
 - Each model's accuracy criterion is evaluated by confusion matrix and accuracy score.
 - Also to test each model's, certainity of accuracy score is examined k-Fold Cross Validation method.
+
+
+
+Insight of this study XGBOOST Classification has the most accuracy score which is %86.9. Also, examination with k-Fold Cross Validation by 10 random picks' mean is %87.2. 
